@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi! I'm Sachin Kumar:
 🔭 I’m currently working on a Flutter project.<br>👯 I’m looking to collaborate in open source.<br>🌱 I’m currently learning Provider and GetX.<br>💬 Ask me about Web Dev and App Dev.<br>⚡ Reach me at   chaudhary2527@gmail.com
 
 
